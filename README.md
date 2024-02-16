@@ -5,5 +5,6 @@ By obtaining the dataset through online sources, analysis and visualization of t
 This repository includes:
 1. Source of dataset
 2. SQL queries
-3. Data visualization by Power BI
-4. Dashboard
+3. Analysis questions
+4. Data visualization by Power BI
+5. Dashboard
